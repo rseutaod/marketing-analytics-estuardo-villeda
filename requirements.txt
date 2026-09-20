@@ -9,3 +9,7 @@ scikit-learn
 seaborn
 streamlit
 tensorflow
+streamlit
+pandas
+numpy
+scikit-learn
