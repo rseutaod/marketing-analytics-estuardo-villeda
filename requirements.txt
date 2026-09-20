@@ -10,6 +10,13 @@ seaborn
 streamlit
 tensorflow
 streamlit
+scikit-learn
 pandas
 numpy
-scikit-learn
+pyarrow
+matplotlib
+seaborn
+pycaret
+nltk
+tensorflow
+mlxtend
