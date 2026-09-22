@@ -18,7 +18,6 @@ modelo_lr.fit(variable_x, variable_y)
 
 if st.button("Predecir"):
     resultado = modelo_lr.predict([[gasto]])
-
-st.success(
-    f"Las ventas proyectadas para una inversion de ${gasto} son: ${resultado[0]}"
-)
+    st.success(
+        f"Las ventas proyectadas para una inversion de ${gasto} son: ${resultado[0]}"
+    )
