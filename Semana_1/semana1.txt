@@ -1,0 +1,4 @@
+Estuardo Villeda – 1003519
+
+https://marketing-analytics-estuardo-villeda-smhk3ddduurg8gnft8xybd.streamlit.app/
+https://github.com/rseutaod/marketing-analytics-estuardo-villeda/blob/main/Semana_1/Laboratorio.ipynb
