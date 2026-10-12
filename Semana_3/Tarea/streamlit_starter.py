@@ -5,6 +5,8 @@ App para explorar el T-learner: curva Qini y tabla de políticas.
 Correr con:  streamlit run streamlit_starter.py
 """
 
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -39,7 +41,8 @@ MODELOS = {
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/uplift_campaign.csv")
+    ruta = Path(__file__).resolve().parent / "data" / "uplift_campaign.csv"
+    return pd.read_csv(ruta)
 
 
 @st.cache_data
