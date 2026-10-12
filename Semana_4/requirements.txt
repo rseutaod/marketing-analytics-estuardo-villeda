@@ -1,6 +1,9 @@
-streamlit
-scikit-learn
-pandas
-numpy
+jupyter
 matplotlib
+mlxtend
+notebook
+numpy
+pandas
+scikit-learn
 seaborn
+streamlit
