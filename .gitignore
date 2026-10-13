@@ -1,2 +1,5 @@
 resuelto*
 *.zip
+
+.venv
+.DS_Store
