@@ -1,9 +1,7 @@
-jupyter
-matplotlib
-mlxtend
-notebook
-numpy
 pandas
+numpy
+matplotlib
 scikit-learn
-seaborn
-streamlit
+mlxtend
+jupyter
+notebook

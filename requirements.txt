@@ -4,7 +4,6 @@ mlxtend
 nltk
 numpy
 pandas
-pyarrow
 pycaret
 scikit-learn
 seaborn
